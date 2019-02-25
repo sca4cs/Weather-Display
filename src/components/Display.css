@@ -1,0 +1,19 @@
+.display {
+    margin: 1% 3%;
+}
+
+.display h1 {
+    text-align: center;
+}
+
+.display .stations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.display .stations .card {
+    border: 1px solid black;
+    margin: 3%;
+    padding: 3%;
+}
